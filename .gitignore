@@ -1,0 +1,11 @@
+/vendor
+composer.phar
+composer.lock
+.env.*
+.DS_Store
+Thumbs.db
+/.idea
+.env.php
+_ide_helper.php
+vendor/*
+config/local
